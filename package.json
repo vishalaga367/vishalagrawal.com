@@ -9,6 +9,22 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  {
+  "name": "vishalwordpress13",
+  "version": "1.0.0",
+  "homepage": "https://vishalaga367.github.io/vishalwordpress13",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/cannon": "^6.6.0",
