@@ -9,22 +9,6 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  {
-  "name": "vishalwordpress13",
-  "version": "1.0.0",
-  "homepage": "https://vishalaga367.github.io/vishalwordpress13",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  }
-}
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/cannon": "^6.6.0",
@@ -39,7 +23,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-fast-marquee": "^1.6.5",
-    "react-icons": "^5.3.0",
+    "react-icons": "^5.4.0",
     "three": "^0.168.0",
     "three-stdlib": "^2.33.0"
   },
@@ -55,5 +39,20 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
+  },
+  "vishalwordpress13": {
+    "version": "1.0.0",
+    "homepage": "https://vishalaga367.github.io/vishalwordpress13",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "deploy": "gh-pages -d build"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    }
   }
 }
