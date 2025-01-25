@@ -1,7 +1,11 @@
 {
-  "name": "kabir-portfolio",
+ {
+  "name": "vishalwordpress", 
+  "version": "0.1.0",
   "private": true,
-  "version": "0.0.0",
+  "homepage": "https://vishalaga367.github.io/vishalagrawal.com"
+}
+
   "type": "module",
   "scripts": {
     "dev": "vite --host",
